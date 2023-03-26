@@ -45,7 +45,7 @@ form input:focus {
 
 form button {
     border: none;
-    background: var (--primary-color);
+    background: var (--primary-color-darker);
     color: #fff;
     font-size: 18px;
     font-weight: 700;
